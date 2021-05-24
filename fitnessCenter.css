@@ -1,0 +1,146 @@
+body {
+    background-image: url("https://image.freepik.com/free-photo/young-healthy-man-athlete-doing-exercise-with-ropes-gym-single-male-model-practicing-hard-training-his-upper-body-concept-healthy-lifestyle-sport-fitness-bodybuilding-wellbeing_155003-27879.jpg");
+   background-repeat: no-repeat;
+
+
+   background-size: cover;
+
+}
+
+.left {
+    display: block;
+    position: absolute;
+    position: absolute;
+    left: 2rem;
+    top: 1rem;
+    display: inline-block;
+    border: 2px salmon;
+
+
+
+
+
+
+}
+
+.mid {
+
+    display: block;
+    width: 40rem;
+    margin: 3rem auto;
+    border: 4px gold;
+
+
+
+}
+
+.right {
+
+    position: absolute;
+    right: 2rem;
+    top: 2rem;
+    display: inline-block;
+    border: 2px salmon;
+
+
+}
+
+.navebar {
+    display: inline-block;
+
+}
+
+.navebar li {
+    display: inline;
+}
+
+.navebar li a {
+    color: honeydew;
+    text-decoration: none;
+    font-size: 1.5rem;
+    padding: .5rem;
+    ;
+}
+
+.navebar li a:hover {
+    text-decoration: underline;
+    color: rgba(14, 176, 119, 0.844);
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+
+}
+
+.left img {
+    width: 50px
+}
+
+.heade.left {
+    
+}
+
+.left div {
+    text-align: center;
+
+
+}
+
+.btn {
+    margin: 10px;
+    background-color: green;
+    font: caption;
+    color: honeydew;
+    border-radius: .4rem;
+    cursor: pointer;
+   
+    outline-style: none;
+}
+
+.btn:hover {
+    background-color: blue;
+    font-size: 15px;
+
+}
+
+.contaner {
+    border: 4px solid white;
+    margin: 106px 80px;
+    padding: 2rem;
+    width: 40%;
+    border-radius: 30px;
+    height: 60%;
+}
+
+.contaner h1 {
+
+    text-align: center;
+    color: rgb(13, 137, 13);
+   
+}
+
+.form input {
+    font-size: 15px;
+    text-align: center;
+    display: block;
+    width: 480px;
+    padding: 8px;
+    border: 2px solid green;
+    border-radius: 10px;
+    margin: 15px auto;
+
+
+
+
+}
+
+.contaner h2 {
+    color: green;
+    margin-bottom: 2rem;
+    margin-top: 0%;
+}
+
+.left h1 {
+    color: green;
+    margin-left: 2rem;
+    top: 1rem;
+}
